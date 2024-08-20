@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cherono-Carolyne
 - 👀 I’m interested in 
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently learning cloud computing and software development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 📫 How to reach me: cheronocarolyne244@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: 
 
