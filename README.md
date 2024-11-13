@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cherono-Carolyne
 - 👀 I’m interested in learning new things and aspects in life.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and MySQL.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and MySQL.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: cheronocarolyne244@gmail.com
 - 😄 Pronouns: she
