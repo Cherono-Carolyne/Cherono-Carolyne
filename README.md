@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Cherono-Carolyne
-- 👀 I’m interested in learning new things and aspects in life.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and MySQL.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: cheronocarolyne244@gmail.com
-- 😄 Pronouns: she
-- ⚡ Fun fact: 
+### 👋 Hi, I'm Carolyne Cherono
+
+*   **Current Role:** Mastercard Foundation Associate specializing in Tech Policy and Strategic Communications.
+*   **AWS Credentials:** AWS Certified Cloud Practitioner (2024) & AWS Certified AI Practitioner (2026).
+*   **Technical Stack:** Cloud Infrastructure (VPC, EC2, S3), Python, JavaScript, HTML5/CSS3, and Git/GitHub.
+*   **Mission:** Bridging the gap between secure cloud infrastructure, emerging AI frameworks, and global public policy.
+*   **How to reach me:** cheronocarolyne244@gmail.com
+
+
 
 <!---
 Cherono-Carolyne/Cherono-Carolyne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
